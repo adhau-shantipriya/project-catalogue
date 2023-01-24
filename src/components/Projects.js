@@ -1,4 +1,4 @@
-import React, { Suspense } from 'react'
+import React from 'react'
 import useFetchProjects from '@/hooks/fetchProjects'
 import Link from 'next/link'
 
